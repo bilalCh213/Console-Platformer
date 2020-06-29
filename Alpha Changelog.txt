@@ -1,0 +1,123 @@
+
+NOTE: This file contains the original old Alpha Changelog of game concept, Console Platformer.
+
+ :::ALPHA:::
+ -----------
+ 
+ 0.1/0.2: {Starting Alpha: Framer Update}
+ -Frame auto-flow screen. (Previously, its not auto-flow but the frame is being changed only when a variable affecting display, is changed)
+ -3 major Tilesets: roof, floor and wall.
+
+ 0.3/0.4: {Player Basic Update}
+ -Player proper display and movement under gravity and boundery limits.
+
+ 0.5: {Player-Tile Update} (Bug Fix Update)
+ -Player different interactions with different tile sets. Player can move up through floor and down through roof.
+
+ 0.6/0.7: {Player Shoot Update} (Include Bug Fix Updates)
+ -Player can shoot and not only one bullet at a time, it can shoot multiple!
+
+ 0.8: {Conveniency Update} (Bug Fix Update)
+ -Making many files and so, dividing 'Framerunner.cpp' into many others for convenient development.
+ -Concept of notSolid, semiSolid/entity and Solid is being worked on!
+
+ 0.9: {Cool Bullets Update} (Bug Fix Update)
+ -Player bullets popped or shined(shows off the effect)!
+
+ 1.0: {Its not solid! Update}
+ -Addition of notSolid0,1: doors and empty. Entities can pass through them.
+
+ 1.1/1.2/1.3: {Enemy Movement Update} (Include Bug Fix Updates)
+ -Now, there are enemies and they move! (Standard AI only)
+
+ 1.4: {Level Update}
+ -Level(s) system and user interface for it.
+
+ 1.5: {Status Bar Update}
+ -Status bar: Now, with user HP.
+
+ 1.6/1.7/1.8: {Enemy Shoot Update} (Include Bug Fix Updates)
+ -Enemy now, shoots! There properties include speed and multiple bullets! (Standard AI only)
+
+ 1.9: {More Movement Update}
+ -Enemy movement AI improvements with movement towards player. (Still Standard AI)
+
+ 2.0: {Bullet Damage Update} (Include Bug Fix Updates)
+ -Player takes bullet damage except during invulnerablity shield(flash).
+
+ 2.1/2.2: {ProxDamage Update} (Include Bug Fix Updates)
+ -Player takes proximity damage from enemies in delays.
+ -Important Bug Fix: Move through Walls!
+
+ 2.3: {Range Update}
+ -Enemy's new property: Eye Range. (only for RandomMove AI and Shoot) (Still Standard AI)
+
+ 2.4/2.5/2.6: {Bug Shoot Out 1 Update} (Include Bug Fix Updates)
+ -Player and Enemy, jump and gravity, works better and alike!
+ -Important Bug Fixes: Proximity Shoot Stuck and Ghost Bullets!
+
+ 2.7: {SlowPow' Power Update}
+ -Player can slow down the whole game for some time by the SlowPow power!
+
+ 2.8/2.9: {Faulty Movement Update} (Include Bug Fix Updates)
+ -Just added Enemy Advanced AI for Movement but it have many faults for now so, still Standard AI only.
+ -Better Status bar now with level display.
+
+ 3.0: {Alpha Final: The Good Bye, All Good Update} (Bug Fix Update)
+ -Improve HP Set system for better level progress.
+ -Some UI improvements.
+ -All 3 levels rebuilded!
+ -Important Bug Fix: Bullets from previous to next level.
+ 
+ ------------------------------------------
+ 
+ :::SUMMARY OF ALPHA:::
+ --------------------------
+Frame gets a flow! Some basic tilesets! Player and enemies with their basic abilities. Addition of blocks from which entities can pass. Includes a level system, a status bar and a way for damaging each other! Added SlowPow! Some UI improvements! And atlast, a great effort upon making better Enemy Movement AI...
+ 
+ ------------------------------------------
+ 
+ This is not beta or stable version changelog of Console Platformer.
+ 
+ ------------------------------------------
+ 
+ FAQ:-
+******
+
+1--What is the difference between Alpha and Beta?
+>> ALPHA Version Series:
+Alpha is the start of game development which includes very basic things to implement on. It starts with a small idea which keep on expanding! The Alpha is 'the Base of a Game' but it is not good enough to be showcased! It is unstable and is buggy!
+ BETA Version Series:
+Beta is the start of development of the game from its base (Alpha). It starts with a base and ends on a complete stable version of the game having many complexes! The Beta is 'the Building that originates from the Base of the Game' and can be showcased! Though it is buggy, it still, looks much stable!
+
+2--Why the game development gets divided into Alpha, Beta and Stable?
+>> WHY DIVISION?
+Just like science get divided into biology, chemistry, physics, mathematics, geometry, etc. Why is science divided? For the sake of convenience! Why there is the need of convenience? This is because of large volumes of theories and laws which looks terrifying and unreadable. Same is the case here! The lines of code require much categories and division so that we as well as any other programmer can easily, read it and modify it.
+ WHY ALPHA, BETA AND STABLE?
+Checkpoints always looks fascinating and gives one an aim. Alpha and Beta are actually, checkpoints. Alpha is the base development and Alpha to Beta is the checkpoint for the completion of base. Beta is building development and Beta to Stable is the checkpoint for the completion of building. Stable is the development of branches from that building which keeps on extending until the game looks all well.
+ WHY CHECKPOINTS?
+Having definate checkpoints gives control to the amount of work and ideas implementation, daily or weekly! The progress of any game development must be under some proper regulations. Or else one day, you must surely, leave the game as a crap piece of incomplete game.
+
+3--Why do you prefer to see the Alpha changelogs while seeing Beta changelogs looks enough?
+>> Remember that Beta is the Building upon the Base and Base is Alpha! So, getting a clear image without seeing the base is not possible. Therefore, we prefer to see the Alpha Changelogs as well as Beta Changelogs only if you are interested in its history and background.
+
+4--How do you think that the base of the game gets completed when Alpha version reaches 3.0a?
+>> Major bugs that causes unstability gets fixed and the UI gets better. Also, we rebuilded levels so that it becomes playable. All basic things are done and some more things excluding it are also done like SlowPow power.
+
+========================
+REASON FOR CLOSING THIS PROJECT!
+*No access to codes of all the previous versions.*
+
+Unfortunately, we did a big mistake! We keep progressing while maintaining backups and saving codes of all older versions. Now, the problem is, when a mistake or bug happens in the latest version, it will remain there amd when some other codes are written ONTO that mistake or bug, things get complicated and unsolvable. In such cases, getting back to the previous version is the only way to get rid of the mistakes or bugs.
+
+
+
+
+
+
+
+
+
+
+
+
