@@ -32,7 +32,7 @@ using namespace std;
 // Solid TileSet variables
 string _floor = "@";
 string wall = "[";
-string roof = "∞";
+string roof = "T";
 string plPassWall = "/";
 string spikes = "#";
 
@@ -42,8 +42,8 @@ int spikeMaxHitDelay = 25;
 
 // NotSolid TileSet variables
 string _empty = " ";
-string door = "Π";
-string shop = "§";
+string door = "N";//Π";
+string shop = "S";
 string powInd = _empty;
 string entrRoom = "o";
 string grave = "↑";
@@ -127,7 +127,7 @@ int FrameDelay = defaultFrameDelay;
     //PLAYER VARIABLES
     
 	// Default Player Display and Position
-string plDis = "¡";
+string plDis = "!";
 string pl = plDis;
 int plH = 0;
 int plW = 0;
